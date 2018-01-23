@@ -65,5 +65,4 @@ local.properties
 
 # Mac
 .DS_Store
-/.classpath
 /.project
